@@ -1,4 +1,5 @@
 🛡️Worknd: Live Subtitle HUD
+
 Worknd is a sleek, real-time "Social Continuity" HUD (Heads-Up Display). It’s designed as a fun utility for anyone who spends a lot of time in headphones. Whether you’re gaming, coding, or just vibing to music, worknd listens to the world around you and floats a live transcript on your screen so you never miss a beat.
 
 Think of it as "Real-World Subtitles" for your desktop.
