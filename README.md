@@ -1,10 +1,10 @@
-🛡️Worknd: Live Subtitle HUD
+##🛡️Worknd: Live Subtitle HUD
 
 Worknd is a sleek, real-time "Social Continuity" HUD (Heads-Up Display). It’s designed as a fun utility for anyone who spends a lot of time in headphones. Whether you’re gaming, coding, or just vibing to music, worknd listens to the world around you and floats a live transcript on your screen so you never miss a beat.
 
 Think of it as "Real-World Subtitles" for your desktop.
 
--✨ Key Features:-
+##✨ Key Features:-
 
 -🎧 Social Bridge: Catch what people are saying without having to pause your music or pull off your headset.
 
@@ -16,7 +16,7 @@ Think of it as "Real-World Subtitles" for your desktop.
 
 -⚡ Smooth Flow: Built with a custom anti-flicker engine, the text updates only when there's something meaningful to show, keeping your workspace clean.
 
-🛠️ Setup & Installation
+##🛠️ Setup & Installation
 1. Prerequisites
 -Python 3.8 or higher.
 
@@ -25,7 +25,7 @@ Think of it as "Real-World Subtitles" for your desktop.
 2. Install Dependencies
 Run this in your terminal:
 
-Bash
+##Bash
 pip install pyaudio httpx numpy
 Note: If PyAudio gives you trouble on Windows, try installing it via conda or a pre-compiled wheel.
 
@@ -47,7 +47,7 @@ export SARVAM_API_KEY='your_api_key_here'
 🚀 How to Run
 Open your terminal in the project folder.
 
-Launch the script:
+##Launch the script:
 
 Bash
 python worknd.py
